@@ -1,6 +1,8 @@
 # pandas-challenge
 Panda Challenge
+
 Please review the files that are in the PyCitySchools folder. The complete ipynb is inside the folder.
+
 After going through the course, I was able to understand Python-Pandas a little better although I have more to learn.  I decided to go back through this challenge to resolve the issues and try to complete it.
 
 WRITTEN REPORT:
